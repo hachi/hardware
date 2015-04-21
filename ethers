@@ -1,0 +1,64 @@
+#c8:2a:14:14:b8:44       lina
+00:1c:c0:08:c6:a9       azraelle
+00:40:63:cb:97:2c       mora
+#00:30:48:77:1a:02       zeetha
+#00:30:48:77:1a:00       light
+00:e0:81:2c:79:88       rosa
+00:30:48:72:24:b6       cassandra
+00:30:48:77:1f:be       kimiko
+#00:0E:F3:14:BC:60       smartlinc
+
+00:30:48:7e:b3:b2       backups
+00:30:48:7e:b3:b3       backups
+
+00:30:48:8d:d2:4e   failed1
+00:30:48:8e:05:08   manny
+00:30:48:8d:e5:ec   kelly
+
+00:01:2e:47:71:c2   tsoro
+c0:3f:d5:6f:91:87   dyne
+
+00:26:F1:12:46:E0   osaka
+00:25:61:F1:38:40   yotsuba
+
+00:C0:B7:6A:F1:84   rack-apc
+
+f8:d0:ac:26:1d:27   ps3
+
+# Matilda (3U hackey supermicro core i7)
+00:1b:21:15:3b:ce   matilda
+00:30:48:dd:bc:70   matilda-ipmi
+# 00:1b:21:15:3b:ce   eth0
+# 00:30:48:dd:bc:70   ipmi management
+# 00:30:48:bc:da:9b   containers
+
+# Reiko (1U short black supermicro atom)
+00:30:48:dc:79:92   reiko
+# 00:30:48:dc:79:92   eth0
+# 00:30:48:dc:79:93   eth1
+# f8:16:54:cd:39:26   wlan
+# 82:13:15:4d:01:07   wwan
+
+# ???? (PCEngines ALIX2d3 black AMD Geode)
+# 00:0d:b9:14:1c:14   eth0
+# 00:0d:b9:14:1c:15   eth1
+# 00:0d:b9:14:1c:16   eth2
+# 00:12:f0:c4:02:73   wireless
+
+# haru (PCEngines ALIX2d3 silver AMD Geode)
+# 00:0d:b9:16:b1:90   eth0
+# 00:0d:b9:16:b1:91   eth1
+# 00:0d:b9:16:b1:92   eth2
+
+# ???? (Cisco WLC)
+# 00:24:c4:14:8c:ab main
+# 00:24:c4:14:8c:a1   oob mgmt
+
+# ap1 (Cisco Aironet 1142)
+40:55:39:f2:06:39   ap1
+
+# ap2 (Cisco Aironet 1142)
+e8:b7:48:f5:11:b4   ap2
+
+# ap3 (Cisco Aironet 1142)
+44:d3:ca:59:6a:85   ap3
